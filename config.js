@@ -4,5 +4,5 @@
 //  (berakhiran /exec), lihat README.md langkah 3.
 // ============================================================
 window.SIMTESIS_CONFIG = {
-  API_URL: 'https://script.google.com/macros/s/AKfycby3b8-HlBCDfkffRFSalBwkQDdO9ahQYyucUQZvVavU8dfwc0fdTSYebDWf65gZGXS1/exec'
+  API_URL: 'https://script.google.com/macros/s/AKfycbxT-O4w7UVGW11hULtqjGvSvh5bKmNgoTG6HbDJPhDio_jwp2lZj8959awLbii8dJVq/exec'
 };
